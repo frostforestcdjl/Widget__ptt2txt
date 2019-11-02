@@ -9,6 +9,6 @@ step2. 收到備份的tgz檔後解壓縮, 裡面每一個檔案為一篇文章, 
 
 step3. 把解壓縮後的文章檔放到 "ptt_articles" 的資料夾底下
 
-step4. 執行 "ptt2txt.py", 就會看到有一個 "ptt2txt.txt" 檔案生成, 裡面就是整合的結果
+step4. 執行 "ptt2txt.py" 或 "ptt2txt.exe", 就會看到有一個 "ptt2txt.txt" 檔案生成, 裡面就是整合的結果
 
 備註: 因為編碼問題, 有些文章沒辦法順利整合, 那些文章的檔案名稱會紀錄在另一生成檔 "unsolved_articles.txt" 中, 那些文章目前只能自行手動用記事本orWORD開啟.
